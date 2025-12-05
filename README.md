@@ -17,4 +17,4 @@
 [Артём Ерохин – Бутстрапирование временных рядов (ODS AI RU)](https://youtu.be/XyM8AElqE2c?si=4QKGs_msiLPjiluc)  
 [Артём Ерохин – Бутстрапирование временных рядов (ODS AI RU). Презентация](https://drive.google.com/file/d/13i2L3ByUryPO3nY0-6vRq5w86zZTxx9R/view)
 
-[Ксения Кувшинова | Forecast and chill: Zero-Shot Foundation Models for Time Series]([https://drive.google.com/file/d/13i2L3ByUryPO3nY0-6vRq5w86zZTxx9R/view](https://youtu.be/fwkE417Bg9g?si=3o8ZFJznzN7rSP_b)
+[Ксения Кувшинова | Forecast and chill: Zero-Shot Foundation Models for Time Series](https://youtu.be/fwkE417Bg9g?si=3o8ZFJznzN7rSP_b)
